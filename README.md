@@ -24,7 +24,6 @@
   ##
 
 - 💬 Ask me about: Games and technology
-- 📫 How to reach me: matheus.verissimo@outlook.com
 - ⚡ Fun fact: I already let a turtle escape
 
   
