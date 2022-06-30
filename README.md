@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi 👋</h1>
+  <h1>Hi there 👋</h1>
 </div>
 
 <div align="center" style="display: flex">
@@ -19,6 +19,5 @@
 - 📫 How to reach me: matheus.verissimo@outlook.com
 - ⚡ Fun fact: I already let a turtle escape
 
-  ##
   
 
