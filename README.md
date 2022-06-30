@@ -1,16 +1,22 @@
-### Hi there 👋
+<div align="center">
+  <h1>Hi 👋</h1>
+</div>
 
-<!--
-**Mveryy/mveryy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mveryy&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mveryy&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
+ 
+  ##
 
-Here are some ideas to get you started:
+- 💬 Ask me about: Games and technology
+- 📫 How to reach me: matheus.verissimo@outlook.com
+- ⚡ Fun fact: I already let a turtle escape
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ##
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="mvery-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="mvery-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="mvery-tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+</div>
