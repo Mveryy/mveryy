@@ -7,9 +7,10 @@
 
 <br>
 
-- 📚 Cursos: Javascript - Curso em vídeo | Discover - Rocketseat | Learn React for free - Scrimba.
+- 📚 Cursos: Javascript - Curso em vídeo | Discover e IgniteLab - Rocketseat | Learn React for free - Scrimba.
 - 💬 Me pergunte sobre: Jogos e tecnologia
 - ⚡ Fato engraçado: Já deixei uma tartaruga escapar
+- 🤓 Atualmente estudando: React e Typescript
 
  <!-- <div align="center">
     <img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif">
