@@ -3,7 +3,9 @@
 </div>
 
  
-<p align="center">Prazer, me chamo Matheus tenho 25 anos e estudo desenvolvimento web front-end desde 04/2022.<br>Entusiasta de tecnologia e aprender coisas novas.</p>
+<h4 align="center">Prazer, me chamo Matheus tenho 25 anos e estudo desenvolvimento web front-end desde 04/2022.<br>Entusiasta de tecnologia e aprender coisas novas.</h4>
+
+<br>
 
 - 📚 Cursos: Javascript - Curso em vídeo | Discover - Rocketseat | Learn React for free - Scrimba.
 - 💬 Me pergunte sobre: Jogos e tecnologia
