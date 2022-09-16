@@ -9,7 +9,7 @@
 
 - 📚 Cursos: Javascript - Curso em vídeo | Discover, especializar e IgniteLab React - Rocketseat | Learn React for free - Scrimba | React, Typescript - B7Web.
 - 💬 Me pergunte sobre: Jogos e tecnologia
-- 🤓 Atualmente estudando: NextJS
+- 🤓 Atualmente estudando: React e Typescript
 
  <!-- <div align="center">
     <img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif">
