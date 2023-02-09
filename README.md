@@ -3,7 +3,7 @@
 </div>
 
  
-<h4 align="center">Prazer, me chamo Matheus tenho 25 anos e estudo desenvolvimento web front-end.<br>Entusiasta de tecnologia e aprender coisas novas.</h4>
+<h4 align="center">Prazer, me chamo Matheus tenho 25 anos e estudo desenvolvimento web.<br>Entusiasta de tecnologia e aprender coisas novas.</h4>
 
 <br>
 
